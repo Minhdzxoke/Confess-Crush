@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Chào Em Nha",
-    introTitle: 'HTML',
+    introTitle: 'Anh Là Minh Đẹp Trai',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'Biết Đẹp Trai r khỏi khen a ngại kk',
     messDesc: '',
     btnAccept: ' <3',
     messLink: 'https://m.me/User.PhamQuangMinh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
